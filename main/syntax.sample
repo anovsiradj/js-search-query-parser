@@ -1,0 +1,16 @@
+
+word 'single quote' "double quote"
+
+#hash
+-minus +plus
+?'single quote' !"double quote"
+
+key:value #key:value
+
+key:'value single' key:"value double" -key:'value single' +key:"value double"
+
+'key single':value "key double":value ?'key single':value !"key double":value
+
+'key single':'value single' "key double":"value double"
+
+'key single':"value double" "key double":'value single'

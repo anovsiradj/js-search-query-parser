@@ -1,0 +1,33 @@
+
+# Search String Query Syntax Parser
+
+yet another search query parser
+
+### howto
+
+```js
+let parser = new SearchQueryParser(`term #hash key:value`);
+console.log( parser.get() );
+```
+
+### devel
+
+```sh
+# ./syntax.regexp => ./regexp.js
+yarn run regexp
+
+# testing
+yarn run test
+
+# testing browser devtools
+yarn run parcel:server
+
+# ./dist/
+yarn run parcel:build
+```
+
+### todos
+
+- parse detect if term is multiple words, `term:"lorem ipsum dolor"` by `is_many:true` (something like that).
+- parse detect words quote mode, `quote:'single|double'`.
+- currently generated files are commited, learn how to not.

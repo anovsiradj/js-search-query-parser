@@ -1,0 +1,11 @@
+{
+	"name": "@anovsiradj/search-query-parser",
+	"version": "0.0.1",
+	"license": "ISC",
+	"scripts": {
+		"test"   : "jest ./main/",
+		"regexp" : "yarn node ./main/regexp-makefile.js",
+		"parcel:server" : "yarn run regexp && parcel ./browser/parcel.html --cache-dir ./node_modules/.tmp/1/ --out-dir ./node_modules/.tmp/1/",
+		"parcel:build"  : "yarn run regexp && parcel build ./main/index.js --out-file ./index.min.js --cache-dir ./node_modules/.tmp/2/"
+	}
+}

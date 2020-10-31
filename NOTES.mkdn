@@ -1,0 +1,44 @@
+
+### 20201025223158
+
+ulasan
+<https://www.searchtechnologies.com/search-query-parsing>
+
+
+<https://www.google.com/search?q=search%20string%20syntax>
+
+### 20201027222940
+
+<https://github.com/search?l=JavaScript&q=search+string&type=repositories>
+<https://github.com/search?l=JavaScript&q=search+string+parser&type=Repositories>
+
+mantap, tapi depend lodash.
+todo? clone?, dijadikan? standalone?.
+overthinking fitur baru, reverse/negative/not.
+jadi seperti by=anov jadi !by=anov atau -by=anov.
+<https://github.com/richmondwang/string-to-obj>
+
+### 20201028181537
+
+bgst, g bisa langsung pake d browser.
+<https://github.com/nepsilon/search-query-parser>
+<https://github.com/mixmaxhq/search-string>
+<https://github.com/typeduck/searchstring>
+
+<https://github.com/quenktechnologies/search-filters>
+
+<https://stackoverflow.com/questions/11832591/javascript-library-for-search-engine-style-searching>
+
+<https://tgvashworth.com/2016/06/27/twitter-search-query-parser.html>
+
+<https://blog.close.com/sales-data-search-writing-a-query-parser-ast-using-part-1/>
+<https://blog.close.com/sales-data-search-writing-a-query-parser-ast-using/> (part 2)
+
+
+### 20201029195203
+
+<https://heinonline.org/HeinDocs/AdvancedSearchSyntax.pdf>
+
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions>
+
+<https://stackoverflow.com/questions/44460642/python-regex-duplicate-names-in-named-groups>

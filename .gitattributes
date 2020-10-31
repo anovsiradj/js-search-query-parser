@@ -1,0 +1,6 @@
+/.git*	export-ignore
+
+/NOTES.mkdn	export-ignore
+/README.mkdn	export-ignore
+
+/browser/	export-ignore
